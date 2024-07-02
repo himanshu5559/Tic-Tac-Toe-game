@@ -6,7 +6,8 @@ const tic_tac_toe = {
         change() {
             this.turn_index = (this.turn_index === 0 ? 1 : 0);
         }
-    },
+        
+    }, 
     container_element: null,
     gameover: false,
     winning_sequences: [

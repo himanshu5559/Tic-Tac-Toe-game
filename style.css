@@ -53,6 +53,7 @@ body {
 .btn:hover {
   background-color: #1abc9c;
 }
+ 
 
 .game > div.winner {
   background: yellow;
